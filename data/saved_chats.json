@@ -1,0 +1,20 @@
+{
+  "hi — 2025-11-11 18:31": [
+    {
+      "role": "user",
+      "content": "hi"
+    },
+    {
+      "role": "assistant",
+      "content": "Hello! How can I assist you with your product or market analysis today?"
+    },
+    {
+      "role": "user",
+      "content": "how are you"
+    },
+    {
+      "role": "assistant",
+      "content": "I'm here and ready to assist you with any product or market analysis needs. How can I help?"
+    }
+  ]
+}
